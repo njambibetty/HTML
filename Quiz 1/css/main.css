@@ -1,0 +1,43 @@
+body{
+	background-color: olive;
+	color: black;
+	border: double;
+	border-color: brown
+	font-family: "Comic Sans Ms",cursive,sans-serif;
+	background-image: url(https://www.nationalgeographic.com/content/dam/animals/2019/07/lion-populations/01-lion-populations-nationalgeographic_1777804.jpg);
+}
+p{
+	font-size: 55px
+    text-align:center;
+    color: black;
+
+}
+
+h1{
+	text-align: center;
+	font-size: 60px;
+	font-family: sans-serif;
+	color: red;
+}
+
+h2{
+	text-align: left;
+	font-size:60px;
+	font-family: sans-serif;
+	color: red;
+}
+h3{
+	text-align: left;
+	font-size:60px;
+	font-family:  sans-serif;
+	color: silver;
+}
+h4{
+	text-align: left;
+	font-size:60px;
+	font-family: sans-serif;
+	color: red;
+}
+
+
+
